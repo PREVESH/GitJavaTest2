@@ -14,5 +14,6 @@ public class Mavenproject6 {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("ssssssssssssssss");
+        System.out.println("ssssssssssssssss");
     }
 }
