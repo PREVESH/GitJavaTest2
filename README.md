@@ -1,5 +1,6 @@
 # GitJavaTest2
 ## GGGG
+```
 import matplotlib.pyplot as plt
 import math
 x = [1, 2, 3, 4, 5]
@@ -17,3 +18,4 @@ plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
 plt.grid(True)
 plt.show()
+```
